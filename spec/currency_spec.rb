@@ -1,5 +1,6 @@
-require_relative './spec_helper.rb'
 require_relative '../currency.rb'
+
+require_relative './spec_helper.rb'
 require "stringio"
 require 'pry'
 
